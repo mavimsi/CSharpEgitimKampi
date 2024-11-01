@@ -1,6 +1,6 @@
 # **C# Eğitimi** #
 
-Yüklemiş olduğum repolar Murat Yücedağ tarafından “C# Eğitim Kampı” adlı youtube çalışmasında yapılan örnekleri içermektedir.
+Yüklemiş olduğum repolar Murat YÜCEDAĞ tarafından “C# Eğitim Kampı” adlı youtube çalışmasında yapılan örnekleri içermektedir.
 
 ### :black_medium_square:Proje 1: ###
 Bu bölüm yazdırma komutlarını ( “Console.Write()” , “Console.WriteLine()”), “Console.Read()” komutunun işlevini ve bazı değişkenlerin(string, int) kullanımını içermektedir. Bu bölümde yapılan örneklerle bu komutların ve değişkenlerin kullanımı hakkında bilgi edindim.
