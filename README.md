@@ -27,6 +27,3 @@ Foreach Döngüsü hakkında bilgi içermektedir. Basit örneklerle Foreach dön
 Metotlar konusunu içermektedir. Birçok yerde kullanmamız gereken birden çok kod gurubu içeren kodları programda bir kere bir değişken olarak tanımlayıp ihtiyaç halinde o değişkenin kullanıldığı duruma metot denildiğini öğrendim. Geriye değer döndüren ve döndürmeyen olarak ikiye ayrıldığı hakkında bilgi edindim. Bu bölüm bu konu hakkındaki örnekleri içermektedir.
 
 
-
-
-:black_medium_square:
